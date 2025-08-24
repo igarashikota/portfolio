@@ -11,5 +11,5 @@ https://github.com/igarashikota/BugCrusher <br>
 また、このハイパーリンクはgitのブラウザ上の閲覧ですと無効になってしまうようです。<br>
 動画も見て頂ける方は、お手数をおかけしますがダウンロードして見て下さると幸いです。<br>
 <br>
-動画のリンク先は、この動画になっています。<br>
+動画のリンク先は、この動画となっています。<br>
 https://youtu.be/kCIBaVV66x0 <br>
