@@ -1,7 +1,7 @@
 見て頂きありがとうございます。<br>
 五十嵐幸太のポートフォリオです。<br>
 ゲーム作品のソースコードなどは、こちらのGitリンクをご覧ください。<br>
-https://github.com/igarashikota/BugCrusher
+https://github.com/igarashikota/BugCrusher <br>
 <br>
 <br>
 本来のpdfはハイパーリンクが挿入されており、作品を動画で視聴することができます。<br>
